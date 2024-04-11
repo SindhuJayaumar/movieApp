@@ -1,0 +1,30 @@
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.IconsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.btn-icons {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.icons {
+  font-size: 50px;
+  color: #ffff;
+  padding-left: 20px;
+}
+.contact-us {
+  font-size: 25px;
+  color: #ffff;
+  margin-top: 5px;
+}

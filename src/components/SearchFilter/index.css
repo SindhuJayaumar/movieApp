@@ -1,0 +1,22 @@
+.search-card {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.search-button {
+  width: 200px;
+}
+.searchingButton {
+  width: 50px;
+  height: 30px;
+  margin-top: 15px;
+  background-color: #000000;
+  border: none;
+}
+
+.search {
+  color: #ffff;
+  width: 150px;
+}
